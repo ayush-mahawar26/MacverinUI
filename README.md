@@ -1,16 +1,14 @@
-# macverin_ui
 
-A new Flutter project.
+Assignment sent by Macverin is now completed from my side , 
+Im submitting the assignment and also attaching screenshot of UI that I replicate.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://i.postimg.cc/RCw60Mwm/page1.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://i.postimg.cc/y8pWGWCm/page2.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://i.postimg.cc/RZZNGKyC/page3.jpg)
+
+![App Screenshot](https://i.postimg.cc/tCy1ZLzx/page4.jpg)

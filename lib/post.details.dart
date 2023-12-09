@@ -227,10 +227,21 @@ class PostDetail extends StatelessWidget {
                                 )
                               ],
                             ),
-                            SvgPicture.asset(
-                              "assets/icons/comment.svg",
-                              width: 35,
-                              height: 35,
+                            Row(
+                              children: [
+                                SvgPicture.asset(
+                                  "assets/icons/comment.svg",
+                                  width: 35,
+                                  height: 35,
+                                ),
+                                Text(
+                                  "59k Comment",
+                                  style: Theme.of(context)
+                                      .textTheme
+                                      .bodySmall!
+                                      .copyWith(color: Colors.grey),
+                                )
+                              ],
                             )
                           ],
                         )
